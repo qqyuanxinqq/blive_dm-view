@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blive_dm-view/static/css/main.073c9b0a.css",
+    "main.js": "/blive_dm-view/static/js/main.5601549e.js",
+    "static/js/787.4e82a37d.chunk.js": "/blive_dm-view/static/js/787.4e82a37d.chunk.js",
+    "static/media/logo.svg": "/blive_dm-view/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/blive_dm-view/index.html",
+    "main.073c9b0a.css.map": "/blive_dm-view/static/css/main.073c9b0a.css.map",
+    "main.5601549e.js.map": "/blive_dm-view/static/js/main.5601549e.js.map",
+    "787.4e82a37d.chunk.js.map": "/blive_dm-view/static/js/787.4e82a37d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5601549e.js"
+  ]
+}
